@@ -1,0 +1,7 @@
+﻿  PlayerManager.cpp
+C:\Users\Professional\Documents\game_simulytor\Game_Simulation\PlayerManager.h(46,1): warning C4102: players: неиспользованная метка
+C:\Users\Professional\Documents\game_simulytor\Game_Simulation\PlayerManager.cpp(26,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Professional\Documents\game_simulytor\Game_Simulation\PlayerManager.cpp(35,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Professional\Documents\game_simulytor\Game_Simulation\PlayerManager.cpp(40): warning C4715: PlayerManager::GetPlayerById: значение возвращается не при всех путях выполнения
+C:\Users\Professional\Documents\game_simulytor\Game_Simulation\PlayerManager.cpp(31): warning C4715: PlayerManager::GetPlayerByName: значение возвращается не при всех путях выполнения
+  Game_Simulation.vcxproj -> C:\Users\Professional\Documents\game_simulytor\Game_Simulation\Debug\Game_Simulation.exe
